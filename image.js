@@ -1,4 +1,4 @@
-const dim = 999;
+const dim = 9;
 const colors = ["blue", "red", "green", "yellow", "purple", "DarkGreen", "Olive",
     "Aqua", "OrangeRed", "Indigo", "Navy", "Chocolate", "Fuchsia", "Teal"
 ]
